@@ -1,4 +1,4 @@
-# Harry Potter House Quiz （https://harry-potter-house-quiz.org）
+# Harry Potter House Quiz [https://harry-potter-house-quiz.org]
 
 A magical Harry Potter-themed quiz application built with Next.js 15, featuring interactive quizzes for sorting hat, patronus discovery, and character identification. Discover your Hogwarts house, find your Patronus, and see which character you're most like!
 
